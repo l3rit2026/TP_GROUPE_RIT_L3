@@ -67,6 +67,8 @@
         
     <!-- bouton modifier -->
     <button>Modifier</button>
+
+    <!-- bouton afficher -->
     
 </body>
 </html>
