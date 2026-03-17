@@ -10,6 +10,7 @@
 
     <h1>MUHINDO NZALITA JOEL</h1>
     <h2>BIREO BABU JULIEN</h2>
+    <h6>MBOKANI MUSHUNGANYA ELIE</h6>
 
     <input type="textnom" placeholder="textnom">
 
