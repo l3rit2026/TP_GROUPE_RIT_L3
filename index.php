@@ -65,7 +65,8 @@
         </section>
     </div>
         
-
+    <!-- bouton modifier -->
+    <button>Modifier</button>
     
 </body>
 </html>
