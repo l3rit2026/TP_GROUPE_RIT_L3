@@ -50,6 +50,12 @@
             <p>c'est un pannel</p>
         </pannel>
 
+        <!-- bouton radio -->
+         <button>
+             <input type="radio">    
+         </button>
+        
+
     
 </body>
 </html>
