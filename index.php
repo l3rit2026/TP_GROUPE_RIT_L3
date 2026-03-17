@@ -44,6 +44,12 @@
     <!-- evenement afficher votre nom -->
      button onclick="alert('KUMBUKA MPUNSU FLORIBERT')">votre nom</button>
 
+     <!-- ajouter un pannel -->
+        <pannel>
+            <h1>BIENVENUE</h1>
+            <p>c'est un pannel</p>
+        </pannel>
+
     
 </body>
 </html>
