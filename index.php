@@ -14,6 +14,8 @@
     </select>
     <label for="cours">Cours :</label>
 <input type="text" id="cours" name="cours" value="Programmation Web">
+
+<button>reset<button>
     
 </body>
 </html>
