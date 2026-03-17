@@ -8,6 +8,10 @@
 <body>
     <!-- VOS COMMIT C'EST VOS NOM -->
 
+    <label for="nom">Choisissez un nom :</label>
+    <select id="nom" name="nom">
+        <option value="MALONGI LISUMBU JEREMIE">MALONGI LISUMBU JÉRÉMIE</option>
+    </select>
     
 </body>
 </html>
