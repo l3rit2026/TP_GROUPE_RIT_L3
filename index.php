@@ -11,6 +11,8 @@
     <h1>MUHINDO NZALITA JOEL</h1>
     <h2>BIREO BABU JULIEN</h2>
 
+    <input type="textnom" placeholder="textnom">
+
     <label for="nom">Choisissez un nom :</label>
     <select id="nom" name="nom">
         <option value="MALONGI LISUMBU JEREMIE">MALONGI LISUMBU JÉRÉMIE</option>
