@@ -22,6 +22,15 @@
 
 <button>reset<button>
 
+
+<form action="">
+    <label for="">nom :</label>
+    <input type="text">
+    <label for="">numero :</label>
+    <input type="text">
+    <button>envoyer</button>
+</form>
+
     
 </body>
 </html>
