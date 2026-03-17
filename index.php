@@ -41,6 +41,9 @@
     <button>envoyer</button>
 </form>
 
+    <!-- evenement afficher votre nom -->
+     button onclick="alert('KUMBUKA MPUNSU FLORIBERT')">votre nom</button>
+
     
 </body>
 </html>
