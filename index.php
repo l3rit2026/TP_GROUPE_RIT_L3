@@ -8,6 +8,8 @@
 <body>
     <!-- VOS COMMIT C'EST VOS NOM -->
 
+    <h1>MUHINDO NZALITA JOEL</h1>
+
     <label for="nom">Choisissez un nom :</label>
     <select id="nom" name="nom">
         <option value="MALONGI LISUMBU JEREMIE">MALONGI LISUMBU JÉRÉMIE</option>
