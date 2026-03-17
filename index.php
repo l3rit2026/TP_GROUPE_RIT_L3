@@ -69,6 +69,11 @@
     <button>Modifier</button>
 
     <!-- bouton afficher -->
+
+    <!-- textbox cote  -->
+     <textarea name="textbox" id="">
+        <h3>cote</h3>
+     </textarea>
     
 </body>
 </html>
