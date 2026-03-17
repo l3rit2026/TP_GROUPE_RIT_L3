@@ -12,6 +12,11 @@
     <h2>BIREO BABU JULIEN</h2>
     <h6>MBOKANI MUSHUNGANYA ELIE</h6>
 
+    <form action="">
+        <label for="cote">cote</label>
+        <input type="text" placeholder="cote :">
+    </form>
+
     <input type="textnom" placeholder="textnom">
 
     <label for="nom">Choisissez un nom :</label>
