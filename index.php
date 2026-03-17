@@ -9,6 +9,7 @@
     <!-- VOS COMMIT C'EST VOS NOM -->
 
     <h1>MUHINDO NZALITA JOEL</h1>
+    <h2>BIREO BABU JULIEN</h2>
 
     <label for="nom">Choisissez un nom :</label>
     <select id="nom" name="nom">
@@ -18,6 +19,7 @@
 <input type="text" id="cours" name="cours" value="Programmation Web">
 
 <button>reset<button>
+
     
 </body>
 </html>
