@@ -12,6 +12,8 @@
     <select id="nom" name="nom">
         <option value="MALONGI LISUMBU JEREMIE">MALONGI LISUMBU JÉRÉMIE</option>
     </select>
+    <label for="cours">Cours :</label>
+<input type="text" id="cours" name="cours" value="Programmation Web">
     
 </body>
 </html>
