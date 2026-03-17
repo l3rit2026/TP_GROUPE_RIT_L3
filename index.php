@@ -83,6 +83,21 @@
      <textarea name="textbox" id="">
         <h3>cote</h3>
      </textarea>
+
+     <!-- table id -->
+
+     <table id="table">
+         <tr>
+             <th>nom</th>
+             <th>postnom</th>
+             <th>prenom</th>
+         </tr>
+         <tr>
+             <td>PALUKU</td>
+             <td>MUNGAMBA</td>
+             <td>HENRY</td>
+         </tr>
+     </table>    
     
 </body>
 </html>
