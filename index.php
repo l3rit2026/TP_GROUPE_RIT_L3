@@ -17,6 +17,10 @@
         <input type="text" placeholder="cote :">
     </form>
 
+    <textarea name="textbox" id="" wrap="soft">
+        textbox
+    </textarea>
+
     <input type="textnom" placeholder="textnom">
 
     <label for="nom">Choisissez un nom :</label>
