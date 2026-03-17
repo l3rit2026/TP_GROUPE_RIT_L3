@@ -41,6 +41,10 @@
     Supprimer
 </button>
 
+<!-- button envoyer -->
+<form method="POST" action="">
+    <input type="submit" name="valider" value="Envoyer">
+</form>
 
 <form action="">
     <label for="">nom :</label>
