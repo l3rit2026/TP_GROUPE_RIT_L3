@@ -30,7 +30,10 @@
     <label for="cours">Cours :</label>
 <input type="text" id="cours" name="cours" value="Programmation Web">
 
-<button>reset<button>
+<!-- bouton reset -->
+<button>
+    LINDA MULUMEODERWA USHINDI
+<button>
 
 
 <form action="">
