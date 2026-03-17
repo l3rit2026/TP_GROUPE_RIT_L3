@@ -35,6 +35,12 @@
     LINDA MULUMEODERWA USHINDI
 <button>
 
+<!-- button suprimer -->
+
+<button>
+    Supprimer
+</button>
+
 
 <form action="">
     <label for="">nom :</label>
